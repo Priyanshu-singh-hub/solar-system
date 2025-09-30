@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    flex-wrap: wrap;
 }
 
 body {
@@ -12,6 +13,7 @@ body {
     justify-content: center;
     padding-top: 360px;
     cursor: url(sun.png);
+
 
 }
 
